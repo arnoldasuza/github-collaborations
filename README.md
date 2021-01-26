@@ -20,3 +20,4 @@ Fork the Repo and add details as described in the activity challenge:
 |11| I-M-B | https://github.com/I-M-B/I-M-B | Data Analyst |
 |12| Dickson Ndungu |(https://github.com/M4L1C10U5/M4L1C10U5) | Pin pointing all your vulnerabilities|
 |13 | markouma | https://github.com/markouma/markouma | Programmer |
+|14| Arnold| https://github.com/arnoldasuza/asuza |Learning New Skills|
